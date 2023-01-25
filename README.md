@@ -1,4 +1,4 @@
-- 👋 Hi, XiaoYi
+- 👋 Hi,
 -  I’m from Taiwan.
 -  I’m a student from NKUST_IC
 
