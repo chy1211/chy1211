@@ -1,6 +1,6 @@
 - 👋 Hi,
 -  I’m from Taiwan.
--  I’m a student from NKUST_IC
+-  M.S. in Information Management
 
 <!---
 chy1211/chy1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
